@@ -13,10 +13,6 @@ Url: https://github.com/iagox86/dnscat2
 
 Url: https://github.com/Arno0x/DNSExfiltrator
 
-## DNSlivery
-
-Url: https://github.com/no0be/DNSlivery
-
 ## Iodine
 
 Url: https://github.com/yarrick/iodine
